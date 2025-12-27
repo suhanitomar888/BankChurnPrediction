@@ -1,10 +1,10 @@
-## 🏦 Bank Churn Prediction Dashboard
-# 📌 Project Overview
+# 🏦 Bank Churn Prediction Dashboard
+## 📌 Project Overview
 
 This project focuses on analyzing customer churn in the banking sector using historical customer data and visual analytics.
 The objective is to identify churn patterns, key risk segments, and business drivers behind customer attrition, and present them through an interactive Power BI dashboard for decision-making support.
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 Understand customer behavior and churn trends
 
@@ -14,7 +14,7 @@ Analyze churn across demographics, geography, and account attributes
 
 Support data-driven customer retention strategies
 
-# 📊 Dashboard Features
+## 📊 Dashboard Features
 
 Overall Churn Rate and key KPIs
 
@@ -34,7 +34,7 @@ Comparison of churned vs. retained customers
 
 Interactive slicers and filters for dynamic exploration
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 
 Customers with low tenure show a higher likelihood of churn
 
@@ -44,7 +44,7 @@ Inactive customers are more prone to churn than active users
 
 Balance and product usage have a strong impact on retention
 
-# 🧼 Data Preparation
+## 🧼 Data Preparation
 
 Cleaned and validated raw customer data
 
@@ -54,7 +54,7 @@ Encoded categorical variables
 
 Created calculated columns and measures for churn analysis
 
-# 🛠️ Tools & Technologies
+#3 🛠️ Tools & Technologies
 
 Power BI – Interactive dashboard and visualization
 
@@ -64,7 +64,7 @@ Excel / CSV – Data preprocessing
 
 Techniques: Data Visualization, Business Intelligence, Churn Analysis
 
-# 🔗 Project Links
+## 🔗 Project Links
 
 LinkedIn Project Post:
 https://www.linkedin.com/posts/suhanitomar_powerbi-dataanalytics-businessintelligence-activity-7408337128515895296-5_d6
@@ -75,7 +75,7 @@ https://drive.google.com/file/d/14hgIiX96bLqUneX7AsLI0K1_IqJ4HZaK/view
 Dataset Source (Kaggle):
 https://www.kaggle.com/datasets/trnhuytun/churn-prediction-dataset
 
-# 🌍 Business Value
+## 🌍 Business Value
 
 This dashboard enables banks to:
 
@@ -87,7 +87,7 @@ Improve customer experience using data-driven insights
 
 Support strategic decisions with clear visual analytics
 
-# 🔭 Future Enhancements
+## 🔭 Future Enhancements
 
 Build a machine learning churn prediction model
 
@@ -97,12 +97,12 @@ Perform time-series churn trend analysis
 
 Automate dashboard refresh with real-time data
 
-# ℹ️ Note
+## ℹ️ Note
 
 Due to file size constraints, the Power BI dashboard file is shared via an external link.
 All links are provided with viewer-only access for easy exploration.
 
-# 🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 Interested in analytics, business intelligence, or dashboard design?
 Feel free to explore the project links or connect with me on LinkedIn.
